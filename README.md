@@ -119,11 +119,6 @@ MacOS:
 brew update
 brew install php@8.3
 
-- **Laravel 11**
-
-Ubuntu|Linux/MacOS:
-composer create-project --prefer-dist laravel/laravel Ossony "11.*"
-
 - **Servidor web Apache**
 
 Ubuntu|Linux:
@@ -143,9 +138,12 @@ sudo mv composer.phar /usr/local/bin/composer
 
 ---
 
-# Aclaraciones
+# Colaboradores
  
  [Contacto]
 
     Christian Ramos
     2230321@upv.edu.mx
+
+    Mayte Melendez
+    2230232@upv.edu.mx
